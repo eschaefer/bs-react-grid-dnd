@@ -1,7 +1,7 @@
 {
   "name": "bs-react-grid-dnd",
   "description": "ReasonML bindings for the react-grid-dnd library",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scripts": {
     "build": "bsb -make-world",
     "start": "bsb -make-world -w",
