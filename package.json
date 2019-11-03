@@ -1,5 +1,6 @@
 {
   "name": "bs-react-grid-dnd",
+  "description": "ReasonML bindings for the react-grid-dnd library",
   "version": "0.1.0",
   "scripts": {
     "build": "bsb -make-world",
@@ -10,6 +11,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "homepage": "https://github.com/eschaefer/bs-react-grid-dnd#readme",
   "keywords": [
     "BuckleScript",
     "ReasonReact",
@@ -23,7 +25,18 @@
     "name": "Eric Schaefer",
     "email": "omg@eric-schaefer.com"
   },
-  "main": "./src/ReactIsVisible.re",
+  "main": "./src/ReactGridDnd.re",
+  "files": [
+    "src/*.re",
+    "bsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eschaefer/bs-react-grid-dnd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eschaefer/bs-react-grid-dnd/issues"
+  },
   "license": "MIT",
   "devDependencies": {
     "bs-platform": "^6.2.1",

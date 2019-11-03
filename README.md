@@ -1,18 +1,23 @@
-# Basic Reason Template
+# ReasonML binding for `react-grid-dnd`
 
-Hello! This project allows you to quickly get started with Reason and BuckleScript. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
+Bucklescript + ReasonReact binding for react-grid-dnd https://github.com/bmcmahen/react-grid-dnd library.
 
-# Build
-```
-npm run build
-```
-
-# Build + Watch
+## Install
 
 ```
-npm run start
+npm install --save bs-react-grid-dnd
 ```
 
+Add bs-react-grid-dnd to `bs-dependencies` in `bsconfig.json`
 
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
+## Usage
+
+Please check examples directory for the reference
+
+## Run Examples
+
+```
+npm run dev
+```
+
+Then open the browser at http://localhost:1234
