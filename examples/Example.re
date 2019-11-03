@@ -1,4 +1,4 @@
-open ReactGridDnd; // not needed if you include "bs-react-grid-dnd" in bs-dependencies of bsconfig.json
+open ReactGridDnd;
 
 type item = {
   id: int,
