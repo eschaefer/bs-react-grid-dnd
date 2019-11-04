@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/bs-react-grid-dnd.svg)](https://badge.fury.io/js/bs-react-grid-dnd)
 
-Bucklescript + ReasonReact binding for react-grid-dnd https://github.com/bmcmahen/react-grid-dnd library.
+Bucklescript + ReasonReact binding for [react-grid-dnd](https://github.com/bmcmahen/react-grid-dnd) library.
 
 ## Install
 
